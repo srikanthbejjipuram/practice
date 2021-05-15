@@ -1,0 +1,7 @@
+apt update
+
+apt install nginx
+
+apt install nodejs
+
+apt install npm -y
